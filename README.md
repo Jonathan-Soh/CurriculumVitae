@@ -5,8 +5,11 @@
 
 ## Contact Information
 Mobile: +65 98341045
+
 Email: jonathan-soh@hotmail.com
+
 LinkedIn: [Jonathan Soh](https://www.linkedin.com/in/jonathan-soh-18527036/)
+
 GitHub: (TBC)
 
 
@@ -16,8 +19,11 @@ I worked 9.5 years as a social worker after spending 30 years as a student, an o
 
 ## Education
 **B.A. Hons. (second Upper) in Social Sciences (Social Work)**
+
 Awarded by Nationa University of Singapore in 2014
-**Dimploma in Psychology and Community Services**
+
+**Diploma in Psychology and Community Services**
+
 Awarded by Ngee Ann Polytechnic in 2011
 - 3 times listed in Director's List
 - 1 time listed second in cohort for semester
