@@ -2,14 +2,17 @@
 
 ## Jonathan Soh Zun En
 
-## C0ntact Information
+
+## Contact Information
 Mobile: +65 98341045
 Email: jonathan-soh@hotmail.com
 LinkedIn: [Jonathan Soh](https://www.linkedin.com/in/jonathan-soh-18527036/)
 GitHub: (TBC)
 
+
 ## About Me
 I worked 9.5 years as a social worker after spending 30 years as a student, an out-of-school youth, and a returning student in Singapore. My unusual life experiences had led to to many interesting experiences and I am now looking to move into the next phase of developing a career for myself in the world of business and tech. My key aim is to prove to myself that I am agile and that agility > age.
+
 
 ## Education
 **B.A. Hons. (second Upper) in Social Sciences (Social Work)**
@@ -19,6 +22,7 @@ Awarded by Ngee Ann Polytechnic in 2011
 - 3 times listed in Director's List
 - 1 time listed second in cohort for semester
 - 1 time module best award
+
 
 ## Work Experience
 **Social Worker**
@@ -43,6 +47,7 @@ with Fei Yue Community Services (July 2014 - July 2015)
 with Shangri-La - Rasa Sentosa Resort (July 2005 - March 2006)
 - Worked 45 - 70 hours weekly in porting baggages, arranging guest transportation, and deliverying room service.
 
+
 ## Skillsets
 **Softskills**
 - Communication: Empathic listening, Paraphrasing, Summarizing
@@ -52,13 +57,16 @@ with Shangri-La - Rasa Sentosa Resort (July 2005 - March 2006)
 - Python Language: Proficient with Class, functions, and loops.
 - SQL: (self-learned) Proficient with Select in Select, and basic operations.
 
+
 ## Professional Certification
 **Professional Certificate in Data Intelligence and Business Analytics**
 Awarded by National University of Singapore in 2024
 
+
 ## Languages
 English - proficient in reading, writing, and speaking
 Chinese - proficient in reading, writing, and speaking
+
 
 ## Interests
 **Sports**
