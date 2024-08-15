@@ -62,7 +62,7 @@ with Fei Yue Community Services (May 2013 - July 2013)
 - Initiated and co-led first 'Night Hike' activity for Fei Yue.
 - Managed 1 case.
 
-- **Social Worker Intern**
+**Social Worker Intern**
 with SHINE Children and Youth Services (former Students Care Service) (May 2012 - July 2012)
 - Managed 4 cases.
 
