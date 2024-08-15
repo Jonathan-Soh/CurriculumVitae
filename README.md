@@ -20,11 +20,11 @@ I worked 9.5 years as a social worker after spending 30 years as a student, an o
 ## Education
 **B.A. Hons. (second Upper) in Social Sciences (Social Work)**
 
-Awarded by Nationa University of Singapore in 2014
+awarded by Nationa University of Singapore in 2014
 
 **Diploma in Psychology and Community Services**
 
-Awarded by Ngee Ann Polytechnic in 2011
+awarded by Ngee Ann Polytechnic in 2011
 - 3 times listed in Director's List
 - 1 time listed second in cohort for semester
 - 1 time module best award
@@ -67,6 +67,7 @@ with Shangri-La - Rasa Sentosa Resort (July 2005 - March 2006)
 
 ## Professional Certification
 **Professional Certificate in Data Intelligence and Business Analytics**
+
 awarded by National University of Singapore in 2024
 
 
