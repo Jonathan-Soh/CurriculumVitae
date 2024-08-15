@@ -121,7 +121,7 @@ Foosball (table soccer): While occasional, I play foosball because Singapore is 
 
 **Recreation**
 
-Karaoake: I sing because singing scares me (in the past). I began singing in church because what better way to overcome fear than to face it directly.
+Karaoke: I sing because singing scares me (in the past). I began singing in church because what better way to overcome fear than to face it directly.
 
 **Others**
 
