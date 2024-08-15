@@ -21,7 +21,7 @@ I worked 9.5 years as a social worker after spending 30 years as a student, an [
 ## Education
 **B.A. Hons. (second Upper) in Social Sciences (Social Work)**
 
-awarded by Nationa University of Singapore in 2014[(view certificate and transcript here)](https://github.com/Jonathan-Soh/bachelors_NUS/blob/main/Degree%20and%20Transcripts.pdf)
+awarded by Nationa University of Singapore in 2014 [(view certificate and transcript here)](https://github.com/Jonathan-Soh/bachelors_NUS/blob/main/Degree%20and%20Transcripts.pdf)
 
 **Diploma in Psychology and Community Services**
 
