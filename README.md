@@ -1,4 +1,4 @@
-# CURRICULUM VITAE
+# MY CURRICULUM VITAE (MY CV)
 
 ## Jonathan Soh Zun En
 
