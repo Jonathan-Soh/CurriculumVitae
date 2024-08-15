@@ -25,7 +25,7 @@ awarded by Nationa University of Singapore in 2014
 
 **Diploma in Psychology and Community Services**
 
-awarded by Ngee Ann Polytechnic in 2011 [(view certificate here)](https://github.com/Jonathan-Soh/diploma_NP.git)
+awarded by Ngee Ann Polytechnic in 2011 [(view certificate here)](https://github.com/Jonathan-Soh/diploma_NP/blob/main/Diploma%20Certificate.pdf)
 - 3 times listed in Director's List
 - 1 time listed second in cohort for semester
 - 1 time module best award
