@@ -117,7 +117,7 @@ Pool: An occasssional pool player, I enjoy trying out fancy moves to allow creat
 
 Darts: I play darts primarily because it is inclusive to people of all genders.
 
-Foosball (table soccer): While occasional, I play foosball because Singapore are regional champions in this game and it is always fun to entertain others with tricks that I learned.
+Foosball (table soccer): While occasional, I play foosball because Singapore is the regional champion in this game and it is always fun to entertain others with tricks that I learned.
 
 **Recreation**
 
