@@ -13,7 +13,7 @@ Facebook: [Jonathan Soh](https://www.facebook.com/jonathan.soh.zun.en)
 
 LinkedIn: [Jonathan Soh](https://www.linkedin.com/in/jonathan-soh-18527036/)
 
-GitHub: (TBC)
+Python Projects: [Blackjack](https://mybinder.org/v2/gh/Jonathan-Soh/python_projects/HEAD)
 
 
 ## About Me
