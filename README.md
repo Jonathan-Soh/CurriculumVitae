@@ -80,8 +80,8 @@ with Shangri-La - Rasa Sentosa Resort (Part-time: July 2005 - February 2006; Ful
 
 ## Skillsets
 **Softskills**
-- Communication: Empathic listening, Paraphrasing, Summarizing
-- Sales/Persuasion: Clear orator, Assessment of needs, Understanding of central and peripheral routes of persuasion
+- Communication: Empathic listening, Paraphrasing, Summarizing.
+- Analysis/Assessment: Quick and logical thinking to analyze and assess problems and issues.
 - Tenacity: Willingness to sacrifice when necessary (i.e. 20 hour shift, waking at 4:30 am thrice per week for a client).
 
 **Technical Skills**
