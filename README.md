@@ -1,4 +1,4 @@
-# CurriculumVitae
+# CURRICULUM VITAE
 
 ## Jonathan Soh Zun En
 
