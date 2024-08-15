@@ -1,6 +1,7 @@
-# MY CURRICULUM VITAE (MY CV)
-
-## Jonathan Soh Zun En
+<div align="center">
+  <h1>MY CURRICULUM VITAE (MY CV)</h1>
+  <h2>Jonathan Soh Zun En</h2>
+</div>
 
 
 ## Contact Information
