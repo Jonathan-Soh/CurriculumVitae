@@ -9,6 +9,8 @@ Mobile: +65 98341045
 
 Email: jonathan-soh@hotmail.com
 
+Facebook: [Jonathan Soh](https://www.facebook.com/jonathan.soh.zun.en)
+
 LinkedIn: [Jonathan Soh](https://www.linkedin.com/in/jonathan-soh-18527036/)
 
 GitHub: (TBC)
