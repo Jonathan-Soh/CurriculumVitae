@@ -58,6 +58,7 @@ with Shangri-La - Rasa Sentosa Resort (July 2005 - March 2006)
 **Softskills**
 - Communication: Empathic listening, Paraphrasing, Summarizing
 - Sales/Persuasion: Clear orator, Assessment of needs, Understanding of central and peripheral routes of persuasion
+
 **Technical Skills**
 - Casework: Managing and following up on a case
 - Python Language: Proficient with Class, functions, and loops.
@@ -66,23 +67,34 @@ with Shangri-La - Rasa Sentosa Resort (July 2005 - March 2006)
 
 ## Professional Certification
 **Professional Certificate in Data Intelligence and Business Analytics**
-Awarded by National University of Singapore in 2024
+awarded by National University of Singapore in 2024
 
 
 ## Languages
 English - proficient in reading, writing, and speaking
+
 Chinese - proficient in reading, writing, and speaking
 
 
 ## Interests
 **Sports**
+
 Basketball: I play 3 - 4 hours weekly to keep my body in shape and to keep my mind sharp.
+
 Cycling: I cycle an average 10 hours weekly to maintain my stamina and endurance for all matters in life.
+
 **Games**
+
 Pool: An occasssional pool player, I enjoy trying out fancy moves to allow creativity and fun in a slow and chill game.
+
 Darts: I play darts primarily because it is inclusive to people of all genders.
+
 Foosball (table soccer): While occasional, I play foosball because Singapore are regional champions in this game and it is always fun to entertain others with tricks that I learned.
+
 **Recreation**
+
 Karaoake: I sing because ssinging scares me (in the past). I began singing in church because what better way to overcome fear than to face it directly.
+
 **Others**
+
 Volunteering: I started volunteering as an addtional avenue to hone my craft in helping others (i.e. children, youths, disadvantaged communities). Along the years, it has become a lifestyle for me and I believe in growing others.
