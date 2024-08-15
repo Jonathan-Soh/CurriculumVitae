@@ -13,7 +13,7 @@ Facebook: [Jonathan Soh Facebook](https://www.facebook.com/jonathan.soh.zun.en)
 
 LinkedIn: [Jonathan Soh LinkedIn](https://www.linkedin.com/in/jonathan-soh-18527036/)
 
-Python Projects: [Blackjack](https://mybinder.org/v2/gh/Jonathan-Soh/python_projects/HEAD)
+Python Projects: [FIRE Calculator](https://colab.research.google.com/github/Jonathan-Soh/python_projects/blob/main/FIRE_Calculator.ipynb)
 
 My Resume: [Jonathan Soh Resume](https://github.com/Jonathan-Soh/my_resume/blob/main/My%20Resume.pdf)
 
