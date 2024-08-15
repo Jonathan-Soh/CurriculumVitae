@@ -14,7 +14,7 @@ GitHub: (TBC)
 
 
 ## About Me
-I worked 9.5 years as a social worker after spending 30 years as a student, an [out-of-school youth](https://eresources.nlb.gov.sg/newspapers/digitised/page/today20080125-2.1.6)(see 'Dropout Scores 4 As'), and a returning student in Singapore. My unusual life experiences had led to to many interesting experiences and I am now looking to move into the next phase of developing a career for myself in the world of business and tech. My key aim is to prove to myself that I am agile and that agility > age.
+I worked 9.5 years as a social worker after spending 30 years as a student, an [out-of-school youth](https://eresources.nlb.gov.sg/newspapers/digitised/page/today20080125-2.1.6) (see 'Dropout Scores 4 As'), and a returning student in Singapore. My unusual life experiences had led to to many interesting experiences and I am now looking to move into the next phase of developing a career for myself in the world of business and tech. My key aim is to prove to myself that I am agile and that agility > age.
 
 
 ## Education
