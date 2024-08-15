@@ -59,6 +59,7 @@ with Shangri-La - Rasa Sentosa Resort (July 2005 - March 2006)
 **Softskills**
 - Communication: Empathic listening, Paraphrasing, Summarizing
 - Sales/Persuasion: Clear orator, Assessment of needs, Understanding of central and peripheral routes of persuasion
+- Tenacity: Willing and has worked crazy hour when the need arises (i.e. 20 hour shift, waking at 4:30 am thrice per week for a client).
 
 **Technical Skills**
 - Casework: Managing and following up on a case
