@@ -9,11 +9,13 @@ Mobile: +65 98341045
 
 Email: jonathan-soh@hotmail.com
 
-Facebook: [Jonathan Soh](https://www.facebook.com/jonathan.soh.zun.en)
+Facebook: [Jonathan Soh Facebook](https://www.facebook.com/jonathan.soh.zun.en)
 
-LinkedIn: [Jonathan Soh](https://www.linkedin.com/in/jonathan-soh-18527036/)
+LinkedIn: [Jonathan Soh LinkedIn](https://www.linkedin.com/in/jonathan-soh-18527036/)
 
 Python Projects: [Blackjack](https://mybinder.org/v2/gh/Jonathan-Soh/python_projects/HEAD)
+
+My Resume: [Jonathan Soh Resume](https://github.com/Jonathan-Soh/my_resume/blob/main/My%20Resume.pdf)
 
 
 ## About Me
