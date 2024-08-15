@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>MY CURRICULUM VITAE (MY CV)</h1>
+  <h1>MY CURRICULUM VITAE (CV)</h1>
   <h2>Jonathan Soh Zun En</h2>
 </div>
 
