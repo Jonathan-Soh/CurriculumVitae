@@ -21,11 +21,11 @@ I worked 9.5 years as a social worker after spending 30 years as a student, an [
 ## Education
 **B.A. Hons. (second Upper) in Social Sciences (Social Work)**
 
-awarded by Nationa University of Singapore in 2014 [(view certificate and transcript here)](https://github.com/Jonathan-Soh/bachelors_NUS/blob/main/Degree%20and%20Transcripts.pdf)
+Awarded by National University of Singapore in 2014 [(view certificate and transcript here)](https://github.com/Jonathan-Soh/bachelors_NUS/blob/main/Degree%20and%20Transcripts.pdf)
 
 **Diploma in Psychology and Community Services**
 
-awarded by Ngee Ann Polytechnic in 2011 [(view certificate here)](https://github.com/Jonathan-Soh/diploma_NP/blob/main/Diploma%20Certificate.pdf)
+Awarded by Ngee Ann Polytechnic in 2011 [(view certificate here)](https://github.com/Jonathan-Soh/diploma_NP/blob/main/Diploma%20Certificate.pdf)
 - 3 times listed in Director's List
 - 1 time listed second in cohort for semester
 - 1 time module best award
@@ -93,7 +93,7 @@ with Shangri-La - Rasa Sentosa Resort (Part-time: July 2005 - February 2006; Ful
 ## Professional Certification
 **Professional Certificate in Data Intelligence and Business Analytics**
 
-awarded by National University of Singapore in 2024
+Awarded by National University of Singapore in 2024
 
 
 ## Languages
