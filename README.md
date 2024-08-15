@@ -39,8 +39,12 @@ with SHINE Children and Youth Services (March 2019 - December 2023)
 - Conducted 1 external training for 20 - 25 officers from Central Narcotics Bureau.
 - Conducted 1 internal training for 30 staff for onboarding.
 
+**Caseworker**
+with Trybe Limited (October 2018 - February 2019)
+- Managed 5 cases.
+
 **Life Coach**
-with Trybe Limited (August 2015 - February 2019)
+with Trybe Limited (August 2015 - September 2018)
 - Managed a monthly caseload of 25 - 30 with 75% completion rates for youth offenders on probation.
 - Directly supervised 1 internship supervisee with 100% completion.
 - Initiated and co-headed cross-divisional peer supervision sessions prior to the setup of formal supervision sessions.
@@ -50,8 +54,27 @@ with Fei Yue Community Services (July 2014 - July 2015)
 - Conducted 20-hour weekly outreaches.
 - Managed 5 cases.
 
-**Porter**
-with Shangri-La - Rasa Sentosa Resort (July 2005 - March 2006)
+**Social Worker Intern**
+with Fei Yue Community Services (May 2013 - July 2013)
+- Conducted 20-hour weekly outreaches.
+- Initiated and co-led first 'Night Hike' activity for Fei Yue.
+- Managed 1 case.
+
+- **Social Worker Intern**
+with SHINE Children and Youth Services (former Students Care Service) (May 2012 - July 2012)
+- Managed 4 cases.
+
+**Part-Time Program Coordinator**
+with Healthserve (May 2011 - July 2011)
+- Conducted volunteer recruitment speech for 20 - 25 participants.
+- Launched satelite office in Assumption Pathway School.
+
+**Part-Time Porter**
+with Amara Hotel (September 2006 - December 2006)
+- Worked 15 - 35 hours weekly in porting baggages.
+
+**Part-Time/Full-Time Porter**
+with Shangri-La - Rasa Sentosa Resort (Part-time: July 2005 - February 2006; Full-time: March 2006)
 - Worked 45 - 70 hours weekly in porting baggages, arranging guest transportation, and deliverying room service.
 
 
@@ -96,7 +119,7 @@ Foosball (table soccer): While occasional, I play foosball because Singapore are
 
 **Recreation**
 
-Karaoake: I sing because ssinging scares me (in the past). I began singing in church because what better way to overcome fear than to face it directly.
+Karaoake: I sing because singing scares me (in the past). I began singing in church because what better way to overcome fear than to face it directly.
 
 **Others**
 
